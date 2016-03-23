@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  background: antiquewhite;
+}
+
+img {
+  display: block;
+  overflow: hidden;
+  margin: 50px auto 40px;
+  width: 60%;
+  max-width: 300px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+p {
+  color: #666;
+  text-align: center;
+  font-size: 14px;
+  font-family: sans-serif;
+}

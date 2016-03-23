@@ -1,1 +1,3 @@
-# coffeejs
+# Coffee.js
+
+Casual JS Meetup
